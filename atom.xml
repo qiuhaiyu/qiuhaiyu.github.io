@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>与时俱进</title>
+  <subtitle>time is money</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://qiuhaiyu.com/"/>
   <updated>2017-03-30T00:49:41.464Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://qiuhaiyu.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>qiuhaiyu</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>坚持的力量</title>
-    <link href="http://yoursite.com/2017/03/30/%E5%9D%9A%E6%8C%81%E7%9A%84%E5%8A%9B%E9%87%8F/"/>
-    <id>http://yoursite.com/2017/03/30/坚持的力量/</id>
+    <link href="http://qiuhaiyu.com/2017/03/30/%E5%9D%9A%E6%8C%81%E7%9A%84%E5%8A%9B%E9%87%8F/"/>
+    <id>http://qiuhaiyu.com/2017/03/30/坚持的力量/</id>
     <published>2017-03-30T00:49:41.000Z</published>
     <updated>2017-03-30T00:49:41.464Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>zk</title>
-    <link href="http://yoursite.com/2017/03/29/zk/"/>
-    <id>http://yoursite.com/2017/03/29/zk/</id>
+    <link href="http://qiuhaiyu.com/2017/03/29/zk/"/>
+    <id>http://qiuhaiyu.com/2017/03/29/zk/</id>
     <published>2017-03-29T09:20:42.000Z</published>
     <updated>2017-03-29T09:20:42.835Z</updated>
     
@@ -45,8 +45,8 @@
   
   <entry>
     <title>Hello World1</title>
-    <link href="http://yoursite.com/2017/03/29/hello-world/"/>
-    <id>http://yoursite.com/2017/03/29/hello-world/</id>
+    <link href="http://qiuhaiyu.com/2017/03/29/hello-world/"/>
+    <id>http://qiuhaiyu.com/2017/03/29/hello-world/</id>
     <published>2017-03-29T09:20:23.801Z</published>
     <updated>2017-03-29T09:20:23.802Z</updated>
     
@@ -72,8 +72,8 @@
   
   <entry>
     <title>第三篇文章</title>
-    <link href="http://yoursite.com/2017/03/24/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2017/03/24/第三篇文章/</id>
+    <link href="http://qiuhaiyu.com/2017/03/24/%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://qiuhaiyu.com/2017/03/24/第三篇文章/</id>
     <published>2017-03-24T02:33:23.000Z</published>
     <updated>2017-03-24T02:33:23.337Z</updated>
     
@@ -86,8 +86,8 @@
   
   <entry>
     <title>第二篇文章</title>
-    <link href="http://yoursite.com/2017/03/24/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2017/03/24/第二篇文章/</id>
+    <link href="http://qiuhaiyu.com/2017/03/24/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://qiuhaiyu.com/2017/03/24/第二篇文章/</id>
     <published>2017-03-24T02:32:56.000Z</published>
     <updated>2017-03-24T02:32:56.035Z</updated>
     
@@ -100,8 +100,8 @@
   
   <entry>
     <title>第一篇文章</title>
-    <link href="http://yoursite.com/2017/03/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2017/03/24/第一篇文章/</id>
+    <link href="http://qiuhaiyu.com/2017/03/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://qiuhaiyu.com/2017/03/24/第一篇文章/</id>
     <published>2017-03-24T02:17:53.000Z</published>
     <updated>2017-03-24T02:28:44.464Z</updated>
     
